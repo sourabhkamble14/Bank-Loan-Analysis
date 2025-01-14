@@ -43,7 +43,13 @@ The **Bank Loan Dataset** consists of loan-related data in CSV format, covering 
 #### **Key Insights**  
 - **Loan Performance**: Identified trends in loan applications, funded amounts, and repayments.  
 - **Borrower Analysis**: Evaluated borrower DTI, interest rates, and repayment behavior for strategic decision-making.  
-- **Loan Quality**: Differentiated "Good Loans" vs. "Bad Loans" to assess risks and optimize portfolio health.  
+- **Loan Quality**: Differentiated "Good Loans" vs. "Bad Loans" to assess risks and optimize portfolio health.
+- ![Screenshot 2025-01-14 115300](https://github.com/user-attachments/assets/9d145554-1af6-4d48-ab41-a9c49720076c)
+- ![Screenshot 2025-01-14 115329](https://github.com/user-attachments/assets/d4394dae-2680-4b6d-9077-263bbdc2c2ed)
+- ![Screenshot 2025-01-14 115411](https://github.com/user-attachments/assets/ad2c8259-636b-4787-a2b3-6e283d72ed44)
+
+
+
 
 ---
 
